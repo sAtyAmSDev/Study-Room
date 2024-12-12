@@ -23,7 +23,7 @@ Study-Room is an innovative platform designed to help students with their learni
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/Study-Room.git
+    git clone https://github.com/sAtyAmSDev/Study-Room.git
     cd Study-Room
     cd backend
     ```
