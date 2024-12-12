@@ -119,9 +119,6 @@ Study-Room/
 5. Push to your branch.
 6. Open a pull request with a clear description of your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
