@@ -14,8 +14,8 @@ Study-Room is an innovative platform designed to help students with their learni
 
 ### Prerequisites
 
-- Node.js (for both frontend and backend)
-- npm (or yarn)
+- Node.js (for backend)
+- npm 
 - Git
 - Vercel account for deployment
 
