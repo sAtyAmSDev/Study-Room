@@ -105,9 +105,9 @@ Study-Room/
 
 ## Technologies Used
 
-- **Frontend**: React, Next.js
+- **Frontend**: React
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB (or any other preferred database)
+- **Database**: MongoDB
 - **Deployment**: Vercel for both frontend and backend
 
 ## How to Contribute
