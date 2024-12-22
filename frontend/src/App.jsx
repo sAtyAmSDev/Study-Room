@@ -12,7 +12,7 @@ import QuestionPapers from "./Pages/QuestionPapers";
 import CustomQuestionBuilder from "./Pages/CustomQuestionBuilder";
 import PDFExplainer from "./Pages/PDFExplainer";
 import Features from "./Pages/Features";
-import AboutUs from "./Pages/AboutUs";
+// import AboutUs from "./Pages/AboutUs";
 
 const App = () => {
   return (
@@ -32,8 +32,8 @@ const App = () => {
           element={<CustomQuestionBuilder />}
         />
         <Route path="/PDFExplainer" element={<PDFExplainer />} />
-        <Route path="/Features" element={<Features />} />
-        <Route path="/AboutUs" element={<AboutUs />} />
+        {/* <Route path="/Features" element={<Features />} /> */}
+        {/* <Route path="/AboutUs" element={<AboutUs />} /> */}
       </Routes>
       {/* <Footer /> */}
     </BrowserRouter>

@@ -326,7 +326,7 @@ const Home = () => {
                     fill="#252134"
                   />
                 </svg>
-                <div className="relative z-10 border-2 p-28 rounded-full text-4xl animate-spin-slow ">
+                <div className="relative z-10 border-2 p-28 rounded-full text-4xl animate-spin ">
                   <FaRobot
                     className="absolute top-0 right-10 cursor-pointer hover:text-purple-700 hover:scale-150 
              transform origin-center animate-rotate-icons"
@@ -851,21 +851,21 @@ const Home = () => {
               All Rights Reserved.
             </span>
             <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
-              <li>
+              {/* <li>
                 <Link to="/AboutUs">
                   <a className="hover:text-purple-700 me-4 md:me-6 cursor-pointer ">
                     About
                   </a>
                 </Link>
-              </li>
+              </li> */}
 
-              <li>
+              {/* <li>
                 <Link to="/AboutUs">
                   <a className="hover:text-purple-700 me-4 md:me-6 cursor-pointer ">
                     Privacy Policy
                   </a>{" "}
                 </Link>
-              </li>
+              </li> */}
               {/* <li>
                 <Link to="/">
                   <a className="hover:text-purple-700 me-4 md:me-6 cursor-pointer ">
@@ -873,12 +873,12 @@ const Home = () => {
                   </a>
                 </Link>
               </li> */}
-              <li>
+              {/* <li>
                 <Link to="/AboutUs">
                   {" "}
                   <a className="hover:text-purple-700">Contact</a>
                 </Link>
-              </li>
+              </li> */}
             </ul>
           </div>
         </footer>

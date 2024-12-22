@@ -76,7 +76,7 @@ const Navbar = () => {
               </Link>
             </li>
 
-            <li>
+            {/* <li>
               <Link to="/QuestionPapers">
                 <a
                   onClick={() => {
@@ -87,7 +87,7 @@ const Navbar = () => {
                   Question Papers
                 </a>
               </Link>
-            </li>
+            </li> */}
 
             <li className="md:hidden visible">
               <Link to="/">
@@ -101,7 +101,7 @@ const Navbar = () => {
                 </a>
               </Link>
             </li>
-            <li className="md:hidden visible">
+            {/* <li className="md:hidden visible">
               <Link to="/AboutUs">
                 <a
                   onClick={() => {
@@ -112,7 +112,7 @@ const Navbar = () => {
                   About Us
                 </a>
               </Link>
-            </li>
+            </li> */}
           </ul>
 
           {!Loging ? (

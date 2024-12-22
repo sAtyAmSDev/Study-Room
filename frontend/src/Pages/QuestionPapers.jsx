@@ -29,7 +29,7 @@ const QuestionPapers = () => {
 
       <div className="relative  text-white flex flex-col h-screen items-center justify-center ">
         <h1 className="p-5 bg-purple-950 text-3xl rounded-xl font-semibold ">
-          Panding Page
+        Not Available any Question Paper
         </h1>
       </div>
     </div>
