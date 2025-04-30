@@ -2,6 +2,9 @@
 
 Study-Room is an innovative platform designed to help students with their learning experience. It features an AI assistant, question paper builder and solver, image analyzer for extracting information, PSF (Problem Solving Framework) Scanner, and more! This repository contains both the frontend and backend code to get your application up and running.
 
+## Image
+![Project Screenshot](https://raw.githubusercontent.com/sAtyAmSDev/Study-Room/main/Screenshot%202025-04-30%20101150.jpg)
+
 ## Features
 
 - **AI Assistant**: An intelligent AI assistant that helps answer questions and provide study-related recommendations.
